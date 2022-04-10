@@ -1,4 +1,3 @@
-db-creds.yml
 apiVersion: v1
 kind: Secret
 type: Opaque
